@@ -11,9 +11,10 @@ No matter what industry you work in — military or medical, biotech or datacom,
 We have a proven track record in developing software throughout the complete stack. Right from tightly embedded systems like [Quickerr automatic swager](https://quickerrsystems.com/) and Ring Rescue [ring cutter](https://www.ringrescue.com/) up to complex tracking satellite systems including inverse kinematics to position the axes, such that the dish continuously faces a selected satellite from a moving platform.
 
 We are very experienced in 
-- motion control
 - embedded systems
 - satellite systems
+- motion control
+- medical devices
 - drones
 - GUI development (embedded and web)
 
