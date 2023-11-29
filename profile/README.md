@@ -10,7 +10,13 @@ No matter what industry you work in — military or medical, biotech or datacom,
 # Software Capabilities
 We have developed software throughout the complete stack. Right from tightly embedded systems like [Quickerr automatic swager](https://quickerrsystems.com/) and Ring Rescue [ring cutter](https://www.ringrescue.com/) up to complex tracking satellite systems including inverse kinematics to position the axes, such that the dish continuously faces a selected satellite from a moving platform.
 
-We are very experienced in motion control
+We are very experienced in 
+- motion control
+- embedded systems
+- satellite systems
+- GUI development (embedded and web)
+- drones
+
 # Open Source
 We are a heavy user and proponent of the open source philosophy. Generally the software and hardware we develop is proprietary to a specific client but occassionally we develop core functions that can be used across a range of product developments. In those cases it is sometimes appropriate to offer them to the open source community.
 
