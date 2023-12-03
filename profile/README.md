@@ -1,4 +1,6 @@
 # Overview
+Tungsten Collaborative is an Ottawa based, end to end, product design company. We can help you design, develop, prototype, and manufacture your product idea. Our team of industrial, mechanical, hardware, and software designers is ready to help make your idea a reality. 
+
 Got a great idea? Perfect – tell us all about it. We’re an experienced, full service product design and development firm with a unique focus on client collaboration. Whether you’re a start-up looking for a complete design solution, or an established organization in need of new, out of the box thinking and creativity, we listen carefully while helping you bring your innovation to life.
 
 We pride ourselves on supporting our clients along the entire product development journey. We help with every stage of product development, from concept to prototype, manufacturing, branding, and packaging to launch.
@@ -11,8 +13,9 @@ No matter what industry you work in — military or medical, biotech or datacom,
 We have a proven track record in developing software throughout the complete stack. Right from tightly embedded systems like [Quickerr automatic swager](https://quickerrsystems.com/) and Ring Rescue [ring cutter](https://www.ringrescue.com/) up to complex tracking satellite systems including inverse kinematics to position the axes, such that the dish continuously faces a selected satellite from a moving platform.
 
 We are very experienced in 
-- embedded systems
+- embedded systems (bare metal and with OS)
 - satellite systems
+- robotics
 - motion control
 - medical devices
 - drones
